@@ -1,0 +1,2 @@
+# Tamuigei
+Ideal System repository
